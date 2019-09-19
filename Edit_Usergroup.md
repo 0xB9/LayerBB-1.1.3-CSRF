@@ -1,5 +1,5 @@
 # Edit Usergroup CSRF
-Allows for the usergroup to be edited through CSRF.
+Allows for the usergroup in the admin control panel to be edited through CSRF.
 
 ## PoC:
 ```html
