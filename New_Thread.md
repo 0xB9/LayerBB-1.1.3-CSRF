@@ -1,5 +1,5 @@
 # New Threads/Posts CSRF
-Allows to create new threads and posts through CSRF.
+Allows to create new threads through CSRF.
 
 ## PoC:
 ```html
