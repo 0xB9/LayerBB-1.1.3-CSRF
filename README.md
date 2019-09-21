@@ -2,7 +2,9 @@
 A repository for the CSRF vulnerabilities found in LayerBB 1.1.3 with a proof of concept.
 
 **CVE**: [CVE-2019-16531](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-16531)
+
 **Packet Strom Link**: [packetstormsecurity.com/files/154549/](https://packetstormsecurity.com/files/154549/LayerBB-1.1.3-Cross-Site-Request-Forgery.html)
+
 **Exploit-DB Link**: [exploit-db.com/exploits/47403](https://www.exploit-db.com/exploits/47403)
 
 ## Proof of Concepts:
